@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    max-width: 100%;
+    border-radius: 50%;
+    border: 5px;
+    object-fit: cover;
+}
